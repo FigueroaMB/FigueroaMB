@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 ¡Hola! Soy Ingeniero Mecatrónico
 
 Estudiante de **Ingeniería Mecatrónica** por egresar. Apasionado por la automatización, robótica y sistemas embebidos. Desarrollo soluciones que integran software y hardware.
