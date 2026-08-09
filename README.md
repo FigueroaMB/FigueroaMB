@@ -42,7 +42,7 @@ Explora mis repositorios para ver proyectos de:
 ## 📫 Contáctame
 
 - 📧 **Email**: bfigueroamn@gmail.com
-- 💼 **LinkedIn**: [Tu perfil](https://linkedin.com/in/tu-usuario)
+- 💼 **LinkedIn**: www.linkedin.com/in/brandonfigueroa2000
 - 🌐 **Portfolio**: [Tu sitio web]
 
 ---
